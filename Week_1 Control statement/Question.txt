@@ -1,0 +1,9 @@
+Q1 eligiable to vote exercise question using if else ststement.
+Q2.read a number and check if it is divisible by 7.
+Q3 check if its last digit is 4.
+Q4 check if its divisible by 3and its last digit is 4.
+Q5 read a no. it is divisible by 3or its last digit is 4
+Q6 write a program to input 3 numbers and check which is the minimum among them.
+Q7 you are given three integer angles of a triangle tell wheather the triangle is valid or not.x
+Q8 Given 5 numbers A,B,C,D,E as input.print the average of these 5
+Q9 Accept the percentage from user and desplay the grades acording to criteria.

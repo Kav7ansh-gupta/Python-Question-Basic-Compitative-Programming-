@@ -1,0 +1,6 @@
+# Q10 Take an integer A as input. You have to tell whether A is divisible by both 5 and 11 or not
+# Q11 WAP to check whether a year is a leap year or not.
+# Q12 WAP to accept a number from 1 to 7 and display the name of the day, like 1 for Sunday, 2 for Monday, etc
+# Q13 Write a program to input two numbers(A & B) from the user and print the maximum element among A & B.
+# Q14 write a program to input 3 numbers and check which is the minimum among them.
+# Q15 Read three angles of triangles and determine their types(Right triangle, Obtuse triangle, Acute triangle).
