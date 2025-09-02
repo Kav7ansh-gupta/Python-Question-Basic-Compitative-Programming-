@@ -8,3 +8,5 @@ print("Marks of the student ", My_list[1])
 
 My_list[1]=80
 print("Updated Marks of the student ", My_list[1])
+My_list.append(20)
+print(My_list)
