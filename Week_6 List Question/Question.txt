@@ -1,0 +1,2 @@
+given an arr  find the maximum value in array
+given an array and a target number find number of occurance of targeted number
