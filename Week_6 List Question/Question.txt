@@ -1,2 +1,3 @@
 given an arr  find the maximum value in array
 given an array and a target number find number of occurance of targeted number
+given an array and an increment value create a new array that contains all upadated value with increment
