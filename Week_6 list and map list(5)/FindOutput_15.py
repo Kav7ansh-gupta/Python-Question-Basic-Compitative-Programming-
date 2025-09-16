@@ -2,7 +2,7 @@ s = "Hello everyone how are you"
 print(s.split())
 s = "Hello-everyone-how are you"
 print(s.split("-"))
-word = 'Suyash:Chaudhary:Noida'
+word = 'Kavyansh gupta : Agra'
 print(word.split(':'))
 t = "23456"
 print(t.split())
