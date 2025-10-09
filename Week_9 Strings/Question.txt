@@ -1,0 +1,4 @@
+reverse the or of the words
+reverse each word in a string
+You have given a string that is You have to find all amazing substring of string an amzing substring is that start with an vovel abec
+Check if given strings are inagram or not inagaram word contain same character but in different order. 

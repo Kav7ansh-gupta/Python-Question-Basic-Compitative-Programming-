@@ -1,0 +1,13 @@
+Function is a block of reusable code that return a spacific task.
+def hello():
+    print("hello")
+hello()
+
+def Hello(name):
+    print("hello",name)
+Hello("Harsh)
+Hello("Krishna")
+
+WAfunction to fin the square of a number
+WAfunction to find square from x to y
+WAfunction to implement 
