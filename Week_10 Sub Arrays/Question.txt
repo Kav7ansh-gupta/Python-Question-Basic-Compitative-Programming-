@@ -1,0 +1,9 @@
+Given an array a of n non agative numbers and a non-nagative number B you need to find the number of sub array in A witha sum less then b We may assume thet there is no overflow.
+Given an array find the sum of all the sub array sum.
+observation :
+            3*3 + -1*4 + 4*3
+            if we know how many sub array of each element we can solve this problem faster 
+in how many sub array index 3 are present. 
+[3, -2, 4, -1, 2, 6]
+
+total = (i+1)*(n-i)
