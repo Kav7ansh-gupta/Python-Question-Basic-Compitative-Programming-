@@ -1,0 +1,10 @@
+given a string calculate the length of longest palindromic sub string
+example : My Dad is my hero
+        xbdyzzydbdyzydx
+Answer: 3 
+explanation : dad the longest sub string with 3 char 
+
+
+given an array with n number of elelments remove 1 element at one time the cost of removing one element is the sum of the array elements
+
+arr = [2,1,4]

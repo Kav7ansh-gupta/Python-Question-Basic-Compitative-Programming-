@@ -3,3 +3,9 @@ given an array and a target number find number of occurance of targeted number
 given an array and an increment value create a new array that contains all upadated value with increment
 given an array filter out all odd numbers
 given a list of int and a target number find and print index of targeted number
+given an array of uniqe element calculate number of noble integars. a[i] is set to be noble if (number of elements< a[i]) = a[i]
+[1,4,2,5,6,3,8]
+[1,-5,3,5,-10,4]
+[-10,-5,1,3,4,5,10]
+given an integars array of size n return 1 if array can be arranged to form an ap (arthmatic proggression). a numbers are ap if differnce bitween to consicutive element is same.
+given an array a of size n find the maximum falue of j - i such that a of j is a[i]<a[j]

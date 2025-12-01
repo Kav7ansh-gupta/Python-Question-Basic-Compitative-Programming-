@@ -1,0 +1,15 @@
+Recursion is a programming technique where function called itseft directly or indirectly to sol valve a question accordingly.
+
+step 1 make an assumption
+step 2 decide what your function does and turst it will do it.
+main logic :
+solving main problem using smaller or sub problems
+
+base case : when the recursion stops that is the base case
+
+
+Using recursion print numbers from 1 to n
+n to 1
+write a recursive function to find the n th fabonachi numbers.
+Find the sum of digit using recursion
+write a recursive funtion to reverse a string
